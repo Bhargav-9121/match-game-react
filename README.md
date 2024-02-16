@@ -2,7 +2,7 @@
 
 <br/>
 <div style="text-align: center;">
-  <img src="https://i.ibb.co/6WJTN0x/ezgif-5-9ff2993766.gif" alt="ezgif-5-9ff2993766" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+  <img src="https://i.ibb.co/6WJTN0x/ezgif-5-9ff2993766.gif" alt="ezgif-5-9ff2993766" style="max-width:100%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
 
